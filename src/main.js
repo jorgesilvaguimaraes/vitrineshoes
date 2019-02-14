@@ -1,5 +1,8 @@
-import Vue from 'vue'
-import App from './App.vue'
+import Vue from 'vue';
+import App from './App.vue';
+
+// Importando o bootstrap.css
+import 'bootstrap/dist/css/bootstrap.css';
 
 new Vue({
   el: '#app',
